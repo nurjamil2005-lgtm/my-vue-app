@@ -16,6 +16,9 @@
         <li><router-link to="/academics"active-class="active">Academics</router-link></li>
         <li><router-link to="/campus_life"active-class="active">Campus Life</router-link></li>
         <li><router-link to="/news"active-class="active">News</router-link></li>
+        <li><router-link to="/sample-data">Sample Data</router-link></li>
+        <li><router-link to="/sample-methods">Sample Methods</router-link></li>
+        <li><router-link to="/sample-vmodel">Sample V Model</router-link></li>
         <li><router-link to="/contact"active-class="active">Contact</router-link></li>
       </ul>
 
