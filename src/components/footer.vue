@@ -1,7 +1,7 @@
 <template>
   <footer class="site-footer">
-    <p>Central Philippine University | Iloilo City, Philippines | info@cpu.edu.ph</p>
-    <p>© 2026 Central Philippine University. All rights reserved.</p>
+    <p>HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY | info@hogwarts.edu.ph</p>
+    <p>© 2026. All rights reserved.</p>
   </footer>
 </template>
 
